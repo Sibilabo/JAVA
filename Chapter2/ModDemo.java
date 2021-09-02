@@ -1,3 +1,4 @@
+
 //Demonstracja użycia operatora % - modulo
 
 class ModDemo {

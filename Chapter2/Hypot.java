@@ -1,3 +1,4 @@
+
 /*
 Stosuje twiedzenie Pitagorasa
 do obliczenia przeciwprostokątnej,

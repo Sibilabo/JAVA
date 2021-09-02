@@ -1,3 +1,5 @@
+
+
 //Demonstruje stosowanie operatorów relacyjnych i logicznych
 class RelLogOps {
     public static void main(String args[]) {

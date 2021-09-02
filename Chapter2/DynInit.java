@@ -1,3 +1,4 @@
+
 //Demonstracja dynamicznej inicjalizacji
 
 class DynInit {

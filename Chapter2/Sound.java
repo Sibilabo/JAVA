@@ -1,3 +1,4 @@
+
 /*
 Oblicza, jak daleko uderzył piorun,
 którego grom potrzebował 7,2 sekundy

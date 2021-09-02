@@ -1,3 +1,4 @@
+
 //Demonstracja specjlanych sekwencji w łańcuchach znakowych
 
 class StrDemo {

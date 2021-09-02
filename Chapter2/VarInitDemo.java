@@ -1,3 +1,4 @@
+
 //Demonstracja czasu istnienia zmiennej
 
 class VarInitDemo {

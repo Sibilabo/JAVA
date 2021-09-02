@@ -1,3 +1,5 @@
+
+
 //Demostruje stosowanie operatorów warunkowych
 
 class SCops {
