@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Chapter2",
         "Chapter3",
-        "Chapter1"
+        "Chapter1",
+        "Chapter4"
     ]
 }
