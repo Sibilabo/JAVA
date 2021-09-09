@@ -1,5 +1,5 @@
 //Ten program tworzy dwa obiekty Vehicle
-
+/*
 class Vehicle {
     int passengers; // Liczba pasażerów
     int fuelcap; // Pojemność zbiornika paliwa w litrach
@@ -34,3 +34,4 @@ public class TwoVehicles {
                             " osób na odległość do " + range2 + " kilometrów.");
     }
 }
+*/
